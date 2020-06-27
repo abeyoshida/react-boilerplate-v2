@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render the LoginPage 1`] = `
+<div
+  className="box-layout"
+>
+  <div
+    className="box-layout__box"
+  >
+    <h2
+      className="box-layout__title"
+    >
+      Boilerplate
+    </h2>
+    <p>
+      Tag line for application
+    </p>
+    <p>
+      <button
+        className="button"
+      >
+        Login with Google
+      </button>
+    </p>
+  </div>
+</div>
+`;
